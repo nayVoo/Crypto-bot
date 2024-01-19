@@ -1,6 +1,6 @@
 # Crypto-bot
 
-ENG.
+# ENG.
 
 This Python bot is designed for monitoring cryptocurrency prices on the Binance exchange and executing trading operations in the testnet mode. Let's go through the key elements of the code:
 
@@ -34,7 +34,7 @@ At the end of the code, the condition if __name__ == '__main__': is used to run 
 Note that the code interacts with real data sources and the Binance testnet. If considering using this code in live trading conditions, caution and additional testing are advised. Additionally, it's important to adhere to ethical standards and legal requirements when developing and deploying trading bots.
 
 
-RUS.
+# RUS.
 
 Этот бот написан на Python и предназначен для мониторинга цен на криптовалютные активы на бирже Binance, а также для выполнения торговых операций в режиме тестовой площадки (testnet). Давайте рассмотрим ключевые элементы кода:
 
