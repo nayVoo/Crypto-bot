@@ -1,4 +1,3 @@
-#import keys
 import aiohttp
 import asyncio
 import threading
